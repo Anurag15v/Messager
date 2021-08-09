@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Anurag15v/Messager.git/static/css/main.6d4e7b48.chunk.css",
+    "main.js": "/Anurag15v/Messager.git/static/js/main.abcfc5cf.chunk.js",
+    "main.js.map": "/Anurag15v/Messager.git/static/js/main.abcfc5cf.chunk.js.map",
+    "runtime-main.js": "/Anurag15v/Messager.git/static/js/runtime-main.97680502.js",
+    "runtime-main.js.map": "/Anurag15v/Messager.git/static/js/runtime-main.97680502.js.map",
+    "static/css/2.a3dfc6f0.chunk.css": "/Anurag15v/Messager.git/static/css/2.a3dfc6f0.chunk.css",
+    "static/js/2.3a1ca84e.chunk.js": "/Anurag15v/Messager.git/static/js/2.3a1ca84e.chunk.js",
+    "static/js/2.3a1ca84e.chunk.js.map": "/Anurag15v/Messager.git/static/js/2.3a1ca84e.chunk.js.map",
+    "static/js/3.4dce8f2b.chunk.js": "/Anurag15v/Messager.git/static/js/3.4dce8f2b.chunk.js",
+    "static/js/3.4dce8f2b.chunk.js.map": "/Anurag15v/Messager.git/static/js/3.4dce8f2b.chunk.js.map",
+    "index.html": "/Anurag15v/Messager.git/index.html",
+    "static/css/2.a3dfc6f0.chunk.css.map": "/Anurag15v/Messager.git/static/css/2.a3dfc6f0.chunk.css.map",
+    "static/css/main.6d4e7b48.chunk.css.map": "/Anurag15v/Messager.git/static/css/main.6d4e7b48.chunk.css.map",
+    "static/js/2.3a1ca84e.chunk.js.LICENSE.txt": "/Anurag15v/Messager.git/static/js/2.3a1ca84e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97680502.js",
+    "static/css/2.a3dfc6f0.chunk.css",
+    "static/js/2.3a1ca84e.chunk.js",
+    "static/css/main.6d4e7b48.chunk.css",
+    "static/js/main.abcfc5cf.chunk.js"
+  ]
+}
